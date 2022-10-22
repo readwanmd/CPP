@@ -1,0 +1,1 @@
+stoi(str1) + stoi(str2)
